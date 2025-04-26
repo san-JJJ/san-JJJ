@@ -28,5 +28,4 @@ Data analyst @ xx Corporation
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sanjay?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
 [![sanjay github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjay-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<cr-searchbox id="searchbox" can-show-secondary-side="" searchbox-lens-search-enabled="" searchbox-voice-search-enabled_="" searchbox-lens-search-enabled_="" is-dark="" shown="">
-    </cr-searchbox>
+
